@@ -1,3 +1,10 @@
+<style>
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+<img src="
 body {
     background-color: #f5f5dc; 
     color: #8b4513; 
